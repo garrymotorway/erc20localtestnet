@@ -11,7 +11,7 @@ npm i
 npm run testnet
 ```
 
-Note the 10 accounts it creates and their private keys. Take the first of these private keys and login to Metamask (this is truffle will pick as the 'owner' of the contract)
+Note the 10 accounts it creates and their private keys. Take the first of these private keys and login to Metamask (this is the one that will be picked as the 'owner' of the contract)
 
 ## Deploy smart contracts
 
